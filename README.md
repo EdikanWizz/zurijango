@@ -1,0 +1,2 @@
+# zurijango
+python activated
